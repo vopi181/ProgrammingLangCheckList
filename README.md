@@ -4,7 +4,8 @@ based off of: [Programming Language Checklist by Colin McMillen, Jason Reed, and
 
 File a issue or PR to add to it for the best possible shitposting or memeing. Thanks.
 
-``` You appear to be advocating a new:
+``` 
+You appear to be advocating a new:
 [ ] functional  [ ] imperative  [ ] object-oriented  [ ] procedural [ ] stack-based
 [ ] "multi-paradigm"  [ ] lazy  [ ] eager  [ ] statically-typed  [ ] dynamically-typed
 [ ] pure  [ ] impure  [ ] non-hygienic  [ ] visual  [ ] beginner-friendly
